@@ -34,4 +34,4 @@ To provide a comprehensive overview, I created a story that weaves together the 
 [Tableau Workbook Link](https://public.tableau.com/views/RevenueMetrics_16961681761220/Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Skills:
-Tableau, Business Intelligence (BI), Cohort Analysis
+Data Analysis · Business Intelligence (BI) · Tableau · Data Visualization · Cohort Analysis · Revenue Analysis
